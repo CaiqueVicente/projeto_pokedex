@@ -1,0 +1,13 @@
+@media (min-width: 180px) and (max-width: 800px) {
+
+    .nave{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+    }
+    .logo{
+        width: 30%;
+        text-align: center;
+    }
+}
